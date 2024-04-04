@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    flex-direction: column;
+    
+}
+input{
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 2rem;
+    background-color: #111827;
+    border: solid;
+    border-radius: 10px;
+}
